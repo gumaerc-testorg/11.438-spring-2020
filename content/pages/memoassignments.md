@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Professional Memorandum Assignments
 uid: 01f341e5-4e51-1d5a-c809-262e549d5611
 ---
