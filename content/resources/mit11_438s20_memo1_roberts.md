@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Professional Memorandum Assignments
 parent_type: CourseSection
+parent_uid: 01f341e5-4e51-1d5a-c809-262e549d5611
 resourcetype: Document
 title: 'Professional memo #1 - Roberts'
 uid: 038d2d61-487a-294e-08b3-be0eae5e6275

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Professional Memorandum Assignments
 parent_type: CourseSection
+parent_uid: 01f341e5-4e51-1d5a-c809-262e549d5611
 resourcetype: Document
 title: 'Professional memo #1 - MIT student'
 uid: c07ca3d8-6d52-2bbb-c5fb-23035acb7922
