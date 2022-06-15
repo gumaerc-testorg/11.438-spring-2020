@@ -1,14 +1,14 @@
 ---
 content_type: page
+description: ''
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 93d560f8-b8bf-712c-5b1e-4578b3537871
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Jeff Levine describes various aspects of how he teaches _11.438 Economic Development Planning_.
 
@@ -44,8 +44,7 @@ Below, Jeff Levine describes various aspects of how he teaches _11.438 Economic 
 
 {{< /div-with-class >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -59,14 +58,13 @@ The students' grades were based on the following activities:
 
 ### Rubrics
 
-Written work was graded in accordance with a [rubric]({{< baseurl >}}/pages/syllabus/#rubric) provided in the syllabus.
+Written work was graded in accordance with a {{% resource_link 98e65dc2-e548-6014-63aa-bba7448297ca "rubric" "#rubric" %}} provided in the syllabus.
 
 ### Instructor Insights on Assessment
 
 [Instructor Interview](./#rubrics)
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -80,10 +78,11 @@ Elective
 
 Every other spring semester
 
-Student Information
--------------------
+## Student Information
 
-![Less than 10 students took this course when it was taught in Spring 2020.]({{< resource_file 8ed1358b-bd9b-4dc3-2bea-38b1b15b67cb >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -99,17 +98,14 @@ The students were all finishing up their degrees and looking for an elective tha
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class, students completed assigned readings and worked on written papers and projects.
