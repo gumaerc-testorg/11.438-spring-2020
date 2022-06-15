@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-438-economic-development-planning-spring-2020/d99fefdfc438d688117da1a2db9d9bcb_MIT11_438s20_memo2_anon.pdf
+file: /courses/11-438-economic-development-planning-spring-2020/d99fefdfc438d688117da1a2db9d9bcb_MIT11_438s20_memo2_anon.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
