@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Professional Memorandum Assignments
 uid: 01f341e5-4e51-1d5a-c809-262e549d5611
 ---
@@ -13,8 +17,8 @@ You are the newly hired Deputy Mayor for Planning & Economic Development for Tol
 
 (Professional memos courtesy of the authors and used with permission.)
 
-*   ["Re: New Ideas for Economic Development Planning in Toledo" (PDF)]({{< baseurl >}}/resources/mit11_438s20_memo1_roberts) - Emma González Roberts
-*   ["Re: Economic Development Strategies" (PDF)]({{< baseurl >}}/resources/mit11_438s20_memo1_anon) - anonymous MIT student
+*   {{% resource_link 038d2d61-487a-294e-08b3-be0eae5e6275 "\"Re: New Ideas for Economic Development Planning in Toledo\" (PDF)" %}} - Emma González Roberts
+*   {{% resource_link c07ca3d8-6d52-2bbb-c5fb-23035acb7922 "\"Re: Economic Development Strategies\" (PDF)" %}} - anonymous MIT student
 
 Professional Memorandum #2 (due session 17)
 -------------------------------------------
@@ -27,8 +31,8 @@ Putting aside Ohio state law for now, what are some concrete ideas he could try 
 
 (Professional memos courtesy of the authors and used with permission.)
 
-*   ["Re: Leveraging TIF for Equitable Economic Development in Toledo" (PDF)]({{< baseurl >}}/resources/mit11_438s20_memo2_roberts) - Emma González Roberts
-*   ["Re: Planning and Finance Implementation Tools" (PDF)]({{< baseurl >}}/resources/mit11_438s20_memo2_anon) - anonymous MIT student
+*   {{% resource_link 603aadc8-5453-78e3-5e2b-ad0a49744548 "\"Re: Leveraging TIF for Equitable Economic Development in Toledo\" (PDF)" %}} - Emma González Roberts
+*   {{% resource_link d99fefdf-c438-d688-117d-a1a2db9d9bcb "\"Re: Planning and Finance Implementation Tools\" (PDF)" %}} - anonymous MIT student
 
 How to Write a Memorandum
 -------------------------
