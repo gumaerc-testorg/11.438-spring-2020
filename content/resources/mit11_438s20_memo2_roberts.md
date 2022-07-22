@@ -5,6 +5,7 @@ file: /courses/11-438-economic-development-planning-spring-2020/603aadc8545378e3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Professional Memorandum Assignments
 parent_type: CourseSection
