@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 98e65dc2-e548-6014-63aa-bba7448297ca
 ---
@@ -40,7 +43,7 @@ There are other books that are not fully assigned but may be worth owning if you
 *    Florida, Richard. _The New Urban Crisis_ (Basic Books, 2017). ISBN: 9781541644120. 
 *    Marshall, Alex. _The Surprising Design of Market Economies_ (University of Texas Press, 2012). ISBN: 9780292756755.
 
-Other readings are listed on the [Readings]({{< baseurl >}}/pages/readings) page.
+Other readings are listed on the {{% resource_link b7696dbd-c6ba-a21b-9e96-77ca8c4ae6c8 "Readings" %}} page.
 
 For legal cases assigned, note that you don’t need to memorize everything. Just read through the case and try to understand the salient points raised and the case law set by the ruling. Feel free to look at summaries of the implications of the case once you have the basic facts down.
 
@@ -52,7 +55,7 @@ Requirements and Grading
 The course will be graded as follows:
 
 *   In-class participation (15%). This is a lecture and discussion course with student projects. Students should be well prepared to participate actively in class discussions and contribute actively to the work of the team.
-*   Short Assignments (20%). Blaise Pascal once famously said “I would have written less but I ran out of time.” These assignments will focus on complex issues and ask students to outline their findings and recommendations in two [professional memoranda]({{< baseurl >}}/pages/memoassignments) on a topic of one page! The responses will be graded on a ✓+, ✓, ✓- scale. You will also be asked to keep an eye on publications and research in the field, both in theory and practice, and pick five articles over the course of the semester to share with the class. Each week we will start the class asking a few students to share their article and explain why it was interesting to them.
+*   Short Assignments (20%). Blaise Pascal once famously said “I would have written less but I ran out of time.” These assignments will focus on complex issues and ask students to outline their findings and recommendations in two {{% resource_link 01f341e5-4e51-1d5a-c809-262e549d5611 "professional memoranda" %}} on a topic of one page! The responses will be graded on a ✓+, ✓, ✓- scale. You will also be asked to keep an eye on publications and research in the field, both in theory and practice, and pick five articles over the course of the semester to share with the class. Each week we will start the class asking a few students to share their article and explain why it was interesting to them.
 *   Midterm Paper (25%). Each student will write a more academic 10-page paper on one topic related to either a LENS or a TOOL and exploring it in more detail, with at least one case study.
 *   End of Semester Project (30%). Each student will choose a topic and case study on economic development planning, and prepare a 15–20 page paper examining the tool, the case study, and the effectiveness of the effort. This project will require direct contact with the community in question to gather information and data, and cannot be done simply through on-line and academic research.
 *   Final Presentation (10%). In the final weeks of the semester, students will present their case study to the rest of the class and respond to questions.
