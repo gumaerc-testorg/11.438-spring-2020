@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: This page provides information on how 11.438 was taught.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
@@ -10,7 +10,7 @@ uid: 93d560f8-b8bf-712c-5b1e-4578b3537871
 ---
 ## Instructor Insights
 
-Below, Jeff Levine describes various aspects of how he teaches _11.438 Economic Development Planning_.
+Below, Jeff Levine describes various aspects of how he teaches *11.438 Economic Development Planning*.
 
 **OCW:** Who took this course in Spring 2020?
 
@@ -28,11 +28,11 @@ Below, Jeff Levine describes various aspects of how he teaches _11.438 Economic 
 
 **Jeff Levine:** Grading can be a little challenging in a graduate-level class without a lot of quantifiable outcomes. Using rubrics helped me provide a rationale for how and why I was grading material, and that helped me stay focused on the values I brought to evaluating the submissions. Rubrics such as “you make your argument clearly” helped me separate that aspect of the evaluations from others, such as “your argument is supported by the research.” Having said that, there is always a bit of a judgment call as to whether particular students is really utilizing their judgment or just repeating what I told them.
 
-{{< div-with-class "reveal1">}}
+{{< div-with-class "reveal1" >}}
 
-› _Read More/Read Less_
+› *Read More/Read Less*
 
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
+{{< /div-with-class >}}{{< div-with-class "toggle1" >}}
 
 **OCW:** You presented this course as a sequence of four thematic units: “lenses,” “tools,” “strategies,” and “cases.” Why did you use this approach? Is this structure unique to the subject matter of 11.438, or would it be useful in teaching other topics as well?
 
@@ -58,7 +58,7 @@ The students' grades were based on the following activities:
 
 ### Rubrics
 
-Written work was graded in accordance with a {{% resource_link 98e65dc2-e548-6014-63aa-bba7448297ca "rubric" "#rubric" %}} provided in the syllabus.
+Written work was graded in accordance with a {{% resource_link "98e65dc2-e548-6014-63aa-bba7448297ca" "rubric" "#rubric" %}} provided in the syllabus.
 
 ### Instructor Insights on Assessment
 
@@ -90,7 +90,7 @@ All second-year graduate students
 
 ### Breakdown by Major
 
-All students in the [Master in City Planning](https://dusp.mit.edu/degrees/masters) program at MIT’s Department of Urban Studies and Planning (DUSP)
+All students in the [Master in City Planning](https://dusp.mit.edu/masters) program at MIT’s Department of Urban Studies and Planning (DUSP)
 
 ### Typical Student Background
 
