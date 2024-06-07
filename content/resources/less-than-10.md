@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-438-economic-development-planning-spring-2020/8ed1358bbd9b4dc32bea38b1b15b67cb_less-than-10.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
