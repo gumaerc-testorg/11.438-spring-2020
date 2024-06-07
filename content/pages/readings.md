@@ -31,7 +31,7 @@ Dates of reading assignments can be found on the {{% resource_link "4e71f735-a83
 - [Dascomb Road Peer Review (PDF - 1.35 MB)](https://andoverma.gov/DocumentCenter/View/5417/20181204-RKG-Associates-Inc-Fiscal-Impact-Analysis-Peer-Review-No-1) (2018)
 - [Montpelier (VT) Fiscal Impacts of Growth (PDF)](https://www.montpelier-vt.org/DocumentCenter/View/1424/A-Study-and-Analysis-of-the-Fiscal-Impacts-of-Growth-in-the-City-of-Montpelier-PDF?bidId=) (2005)
 - [Northland Newton (PDF)](https://www.newtonma.gov/home/showpublisheddocument?id=49313) (2018)
-- [Northland Newton Peer Review (PDF - 1.62 MB)](http://www.newtonma.gov/civicax/filebank/documents/101146) (2018)
+- [Northland Newton Peer Review (PDF - 1.62 MB)](https://www.newtonma.gov/home/showpublisheddocument/49329/637429359517930000) (2018)
 - [Thompsonville (CT) Transit Fiscal Impact Study (PDF - 1.23 MB)](https://www.enfield-ct.gov/DocumentCenter/View/6537/Thompsonville-Transit-Center---Economic-and-Fiscal-Impact-Study) (2005)
 - [Waterfront West (PDF)](https://www.cityofnewburyport.com/sites/g/files/vyhlif7106/f/uploads/6_-_fiscal_impact_analysis_-_waterfront_west.pdf) (2017)
 
@@ -47,7 +47,6 @@ Dates of reading assignments can be found on the {{% resource_link "4e71f735-a83
 - [Citizens Advocating Responsible Environmental Solutions, Inc., v. City of Marco Island, 959 So.2d 203](https://scholar.google.com/scholar_case?case=7996334369085967084&q=Citizens+Advocating+Responsible+Environmental+Solutions,+Inc.,+v.+Cit%E2%80%A6) (2007)
 - [City of Boca Raton v. State, 595 So.2d 25](https://scholar.google.com/scholar_case?case=3756918873607349095&q=City+of+Boca+Raton+v.+State,+595+So.2d+25+) (1992)
 - [City of Pittsburgh v. Alco Parking Corporation, 417 U.S. 369](https://scholar.google.com/scholar_case?case=4634847201439227307&q=City+of+Pittsburgh+v.+Alco+Parking+Corporation,+417+U.S.+369+) (1974)
-- [City of Portland \[ME\] One Year Action Plan (PDF)](http://www.portlandprf.com/DocumentCenter/View/25904/Action-Plan-2019) FY 2020 (FFY2019)
 - [City of Portland \[ME\] Transportation Hub Link Feasibility Study (PDF)](https://www.gpcog.org/DocumentCenter/View/352/2015-Portland-Hub-Link-Focus-Group-Presentation-PDF) (2015)
 - [Dolan v. City of Tigard, 512 U.S. 374](https://scholar.google.com/scholar_case?case=8551511773686011796&q=Dolan+v.+City+of+Tigard,+512+U.S.+374+) (1994)
 - Edwards, Mary. [“State and Local Revenues Beyond the Property Tax (PDF).”](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.626.8474&rep=rep1&type=pdf) Lincoln Institute of Land Policy, 2006.
@@ -63,7 +62,7 @@ Dates of reading assignments can be found on the {{% resource_link "4e71f735-a83
 -  Leigh, Nancey Green, and Edward J. Blakeley. *Planning Local Economic Development*, sixth edition. Sage Publishing, 2016. ISBN: 9781506363998.
 - Merriman, David. [“Improving Tax Increment Financing (TIF) for Economic Development.”](https://www.lincolninst.edu/publications/policy-focus-reports/improving-tax-increment-financing-tif-economic-development) Lincoln Institute of Land Policy, 2018. 
 - Mitchell, Stacy. [“Monopoly Power and the Decline of Small Businesses: The Case for Restoring America’s Once Robust Antitrust Policies (PDF - 4.02 MB).”](https://ilsr.org/wp-content/uploads/2018/03/MonopolyPower-SmallBusiness.pdf) Institute for Local Self-Reliance, 2016.
-- [Narrative History of the CDBG Program in Portland (PDF)](http://www.portlandprf.com/DocumentCenter/View/20527)
+- [Narrative History of the CDBG Program in Portland (PDF)](https://content.civicplus.com/api/assets/05457e1c-c5db-4e53-8621-e866e8247f3c?cache=1800)
 - Nielsen, Anders. [“That’s Our Dump! \[1\]”](https://thebollard.com/2011/08/09/thats-our-dump/) *The Bollard,* Aug. 9, 2011.
 - [Nollan v. California Coastal Commission, 483 U.S. 825](https://scholar.google.com/scholar_case?case=10841693014473793601&q=+Nollan+v.+California+Coastal+Commission,+483+U.S.+825+) (1987)
 - [Nordlinger v. Hahn, 505 U.S. 1](https://supreme.justia.com/cases/federal/us/505/1/) (1992)
