@@ -33,7 +33,7 @@ Dates of reading assignments can be found on the {{% resource_link "4e71f735-a83
 - [Northland Newton (PDF)](https://www.newtonma.gov/home/showpublisheddocument?id=49313) (2018)
 - [Northland Newton Peer Review (PDF - 1.62 MB)](https://www.newtonma.gov/home/showpublisheddocument/49329/637429359517930000) (2018)
 - [Thompsonville (CT) Transit Fiscal Impact Study (PDF - 1.23 MB)](https://www.enfield-ct.gov/DocumentCenter/View/6537/Thompsonville-Transit-Center---Economic-and-Fiscal-Impact-Study) (2005)
-- [Waterfront West (PDF)](https://www.cityofnewburyport.com/sites/g/files/vyhlif7106/f/uploads/6_-_fiscal_impact_analysis_-_waterfront_west.pdf) (2017)
+- [Waterfront West (PDF)](https://www.cityofnewburyport.com/sites/g/files/vyhlif12211/f/uploads/6_-_fiscal_impact_analysis_-_waterfront_west.pdf) (2017)
 
 ## Other Readings:
 
@@ -49,7 +49,7 @@ Dates of reading assignments can be found on the {{% resource_link "4e71f735-a83
 - [City of Pittsburgh v. Alco Parking Corporation, 417 U.S. 369](https://scholar.google.com/scholar_case?case=4634847201439227307&q=City+of+Pittsburgh+v.+Alco+Parking+Corporation,+417+U.S.+369+) (1974)
 - [City of Portland \[ME\] Transportation Hub Link Feasibility Study (PDF)](https://www.gpcog.org/DocumentCenter/View/352/2015-Portland-Hub-Link-Focus-Group-Presentation-PDF) (2015)
 - [Dolan v. City of Tigard, 512 U.S. 374](https://scholar.google.com/scholar_case?case=8551511773686011796&q=Dolan+v.+City+of+Tigard,+512+U.S.+374+) (1994)
-- Edwards, Mary. [“State and Local Revenues Beyond the Property Tax (PDF).”](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.626.8474&rep=rep1&type=pdf) Lincoln Institute of Land Policy, 2006.
+- Edwards, Mary. “State and Local Revenues Beyond the Property Tax (PDF).” Lincoln Institute of Land Policy, 2006.
 - [Ehrlich v. City of Culver City, 911 P.2d 429](https://scholar.google.com/scholar_case?case=15419432935028874278&q=Ehrlich+v.+City+of+Culver+City,+911+P.2d+429+) (1996)
 - Elmer, Vicki. [“Bonds and Borrowing (PDF).”](https://www.cdfa.net/cdfa/cdfaweb.nsf/ord/201410_BondsAndBorrowing2006.html/$file/elmer-bonds.pdf) Lincoln Institute of Land Policy (undated).
 - Evans-Cowley, Jennifer. [“Development Exactions: Process and Planning Issues (PDF).”](http://www.impactfees.com/publications%20pdf/evans-cowley-planning.pdf) Lincoln Institute of Land Policy, 2006.
