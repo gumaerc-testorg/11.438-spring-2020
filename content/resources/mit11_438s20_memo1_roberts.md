@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-438-economic-development-planning-spring-2020/038d2d61487a294e08b3be0eae5e6275_MIT11_438s20_memo1_roberts.pdf
+file: /courses/11-438-economic-development-planning-spring-2020/038d2d61487a294e08b3be0eae5e6275_MIT11_438s20_memo1_roberts.pdf
 file_size: 196215
 file_type: application/pdf
 learning_resource_types:
