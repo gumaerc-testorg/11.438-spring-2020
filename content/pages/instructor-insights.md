@@ -90,7 +90,7 @@ All second-year graduate students
 
 ### Breakdown by Major
 
-All students in the [Master in City Planning](https://dusp.mit.edu/masters) program at MIT’s Department of Urban Studies and Planning (DUSP)
+All students in the {{% resource_link "56516617-29f5-4729-8d3c-60edc65f99f5" "Master in City Planning" %}} program at MIT’s Department of Urban Studies and Planning (DUSP)
 
 ### Typical Student Background
 
