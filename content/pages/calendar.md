@@ -177,7 +177,7 @@ midterm papers due
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-17\. Leveraging Economic Development for Public Policy Goals / Value Capture *(guest lecture by Anthony Flint,* [*Lincoln Institute of Land Policy*](https://www.lincolninst.edu/)*)*
+17\. Leveraging Economic Development for Public Policy Goals / Value Capture *(guest lecture by Anthony Flint,* {{% resource_link "77bc9a47-0afc-4953-8bd9-7fd675849ef3" "*Lincoln Institute of Land Policy*" %}}*)*
 {{< tdclose >}}{{< tdopen >}}
 
 - German & Bernstein, “Land Value Capture: Tools to Finance Our Urban Future” 
@@ -217,7 +217,7 @@ professional memo #2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. CASE STUDIES—How Does This Really Work?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-21\. Economic Development Planning in Practice: Thompson’s Point, Portland, ME *(guest lecture by Chris Thompson,* [*Thompson's Point*](https://www.thompsonspoint.com/) *developer)*
+21\. Economic Development Planning in Practice: Thompson’s Point, Portland, ME *(guest lecture by Chris Thompson,* {{% resource_link "9f81a00c-8f4f-4abe-8ce0-7309aa52b0e4" "*Thompson's Point*" %}} *developer)*
 {{< tdclose >}}{{< tdopen >}}
 
 - Thompson’s Point website
@@ -229,7 +229,7 @@ professional memo #2 due
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-22\. Iterative Economic Development Planning: Assembly Square, Somerville, MA *(guest lecture by Wig Zamore,* [*Mystic View Task Force*](https://mvtf.wordpress.com/about/) *&* [*Somerville Transportation Equity Partnership*](https://www.somervillestep.org/category/about-step/)*)*
+22\. Iterative Economic Development Planning: Assembly Square, Somerville, MA *(guest lecture by Wig Zamore,* {{% resource_link "d63e3630-238f-4864-b70b-e4aa97220e79" "*Mystic View Task Force*" %}} *&* {{% resource_link "5417eb99-8c72-4f9c-a7bd-8ccf51d655ee" "*Somerville Transportation Equity Partnership*" %}}*)*
 {{< tdclose >}}{{< tdopen >}}
 
 - Assembly Square Planning Study (City of Somerville, 2000) 
